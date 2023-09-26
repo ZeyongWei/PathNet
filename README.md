@@ -17,7 +17,7 @@ This is our implementation of PathNet
 
 ## Installation
 
-You can install via conda environment .yaml file
+You can install via conda environment .yaml file.
 
 ```bash
 conda env create -f env.yml
@@ -25,7 +25,7 @@ conda activate pathnet
 ```
 
 ## Datasets and model
-We provide pretrained models and datasets [here](https://drive.google.com/drive/folders/1qaxpcqBGVK59HBfTTS68AoaqSWLcp9si?usp=sharing)
+We provide pretrained models and datasets [here](https://drive.google.com/drive/folders/1qaxpcqBGVK59HBfTTS68AoaqSWLcp9si?usp=sharing).
 
 Please extract `test_data.zip`, `train _data.hdf5` to `./data` folder, `best_model.pth` to `./log/path-denoise/model/checkpoints/best_model.pth`.
 
@@ -33,7 +33,7 @@ Please extract `test_data.zip`, `train _data.hdf5` to `./data` folder, `best_mod
 
 ## Train
 
-Training will be public after acception
+Training will be public after acception.
 
 ## Test (The filtered results will be saved at `./data/results`)
 ``` bash
