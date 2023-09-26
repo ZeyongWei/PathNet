@@ -54,7 +54,7 @@ The repository is based on:
 - [Path-Restore](https://github.com/yuke93/Path-Restore)
 - [PU-GAN](https://liruihui.github.io/publication/PU-GAN/)
 - [PU-Net](https://github.com/yulequan/PU-Net). 
-- [Mesh Denoising via Cascaded Normal Regression] (https://wang-ps.github.io/denoising.html)
+- [Mesh Denoising via Cascaded Normal Regression](https://wang-ps.github.io/denoising.html)
 
 The point clouds are visualized with [Easy3D](https://github.com/LiangliangNan/Easy3D).
 
