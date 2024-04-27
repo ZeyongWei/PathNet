@@ -49,7 +49,7 @@ python test.py
 
 ## Citation
 If you find the code useful for your research, please consider citing
-
+```
 @article{wei2024pathnet,
   title={PathNet: Path-Selective Point Cloud Denoising},
   author={Wei, Zeyong and Chen, Honghua and Nan, Liangliang and Wang, Jun and Qin, Jing and Wei, Mingqiang},
@@ -57,6 +57,7 @@ If you find the code useful for your research, please consider citing
   year={2024},
   publisher={IEEE}
 }
+```
 
 ## Acknowledgements
 The repository is based on:
